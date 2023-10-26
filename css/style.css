@@ -1,0 +1,39 @@
+body{
+    font-family: 'Amiri', serif;
+    
+   
+}
+header{
+    background: 
+    linear-gradient(rgba(0, 0, 0, 0.507) , rgba(0, 0, 0, 0.479)) ,
+     url(../images/BG.jpg);
+     background-position: center;
+     
+     background-size: cover; 
+    
+}
+#ww{
+    background: 
+    linear-gradient(rgba(0, 0, 0, 0.507) , rgba(0, 0, 0, 0.479)) ,
+     url(../images/News-P-331156-636390080177522374.jpg);
+     background-position: center;
+     
+     background-size: cover; 
+}
+#ee{
+    background: 
+    linear-gradient(rgba(0, 0, 0, 0.507) , rgba(0, 0, 0, 0.479)) ,
+     url(../images/chiess.jpg);
+     background-position: center;
+     
+     background-size: cover; 
+}
+#testimonials img{
+    
+    height: 90px; width: 90px;
+    border-radius:50%;
+    margin-right: 150px;
+   
+    vertical-align: middle;
+
+}
